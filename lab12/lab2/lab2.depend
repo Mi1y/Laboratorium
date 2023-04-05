@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674084169 source:c:\users\mi³y\desktop\studia\pp\lab 12\lab2\main.cpp
+	<iostream>
+	<Windows.h>
+	<string>
+	<array>
+	<cstdio>
+	<iomanip>
+

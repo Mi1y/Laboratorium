@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665673679 source:c:\users\paulina\desktop\lab\labv5\main.cpp
+	<iostream>
+	<math.h>
+
